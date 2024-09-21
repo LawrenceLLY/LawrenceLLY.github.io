@@ -17,7 +17,8 @@ My research interests include algorithms, theories, and applications of **Artifi
 * Lagre Language Models (LLMs)
 * Computer Vision
 * Deep Reinforcement Learning
-* AI for Science
+* AI for Science & Mathematics
+* Deep Learning & Neural Networks
 
 Publications
 ------
