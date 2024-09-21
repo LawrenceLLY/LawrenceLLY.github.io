@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in **Computational and Data Sciences** at [Washington University in St. Louis](https://washu.edu/), and my research field is  **Artificial Intelligence (AI)**. Before this, I received my Master of Science degree in **Computer Science** from [Georgetown University](https://www.georgetown.edu/) and received my Master of Science degree in **Physics** from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I also completed my undergraduate at [BNU–HKBU United International College](https://uic.edu.cn/) and earned my Bachelor of Science (Honors) in **Computer Science and Technology** from [Hong Kong Baptist University](https://www.hkbu.edu.hk/).
+I am currently a Ph.D. student in **Computational and Data Sciences** at [Washington University in St. Louis](https://washu.edu/), and my research field is  **Artificial Intelligence (AI)**. Before this, I received my Master of Science degree in **Computer Science** from [Georgetown University](https://www.georgetown.edu/) and received my Master of Science degree in **Physics** from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I also completed my undergraduate at [BNU–HKBU United International College](https://uic.edu.cn/) and earned my Bachelor of Science (Honors) degree in **Computer Science and Technology** from [Hong Kong Baptist University](https://www.hkbu.edu.hk/).
 
 Research Interests
 ------
