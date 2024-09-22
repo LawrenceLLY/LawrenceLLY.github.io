@@ -12,9 +12,9 @@ I am currently a Ph.D. student in **Computational and Data Sciences** at [Washin
 Research Interests
 ------
 <!-- 我的研究兴趣包括人工智能（AI）的算法，理论和应用。我专注于研发AI新算法，提升AI模型的各项性能，我也专注于如何在不同的领域更好地应用AI模型。同时，我也对物理学很感兴趣。以下是我目前的研究兴趣： -->
-My research interests include algorithms, theories, and applications of **Artificial Intelligence (AI)**. I focus on developing new AI algorithms and improving the performance of AI models. I also focus on how to better apply AI models in different fields. At the same time, I am also very interested in physics. The following are my current research interests:
+My research interests include algorithms, theories, and applications of **Artificial Intelligence (AI)**. I focus on developing new AI algorithms and improving the performance of AI models. I also focus on how to apply AI models in different fields better. At the same time, I am also very interested in physics. The following are my current research interests:
 
-* Lagre Language Models (LLMs)
+* Large Language Models (LLMs)
 * Computer Vision
 * Deep Reinforcement Learning
 * AI for Science & Mathematics
