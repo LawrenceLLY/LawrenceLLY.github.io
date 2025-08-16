@@ -19,6 +19,7 @@ My research interests include algorithms, theories, and applications of **Artifi
 * Deep Reinforcement Learning
 * AI for Science & Mathematics
 * Neural Networks & Deep Learning
+* Machine Learning for Gene
 * Security & Privacy & Anonymity
 
 Publications
