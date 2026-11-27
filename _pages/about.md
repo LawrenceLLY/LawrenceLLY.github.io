@@ -24,3 +24,12 @@ My research interests include algorithms, theories, and applications of **Artifi
 
 Publications
 ------
+1. **Motif-Vocab: Statistically Calibrated Transcription-Factor-Identity Tokenization for Genomic Language Models**  
+   **Liangyu Li**, Michael White.  
+   *arXiv preprint arXiv:2609.28386*, 2026.  
+   [Paper](https://arxiv.org/abs/2609.28386)
+
+2. **A Deep-Learning-Boosted Framework for Quantum Sensing with Nitrogen-Vacancy Centers in Diamond**  
+   C. Yao, H. Shen, Z. Liu, R. Gong, M. S. B. Kashem, S. Varnum, **L. Li**, et al.  
+   *Proceedings of the National Academy of Sciences (PNAS)*, 123(48), e2612349123, 2026.  
+   [Paper](https://www.pnas.org/doi/10.1073/pnas.2612349123)
