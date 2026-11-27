@@ -15,7 +15,7 @@ Research Interests
 My research interests include algorithms, theories, and applications of **Artificial Intelligence (AI)**. I focus on developing new AI algorithms and improving the performance of AI models. I also focus on how to apply AI models more effectively in various fields. At the same time, I am also very interested in physics. The following are my current research interests:
 
 * Large Language Models (LLMs)
-* World Model
+* World Models
 * Recursive Self-Improvement
 * Computer Vision
 * Deep Reinforcement Learning
